@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ablentore.github.io/sitemap.html.gz
+Sitemap: https://ablentore.github.io/app/sitemap.html.gz
+Sitemap: https://ablentore.github.io/assets/sitemap.html.gz
+Sitemap: https://ablentore.github.io/css/sitemap.html.gz
+Sitemap: https://ablentore.github.io/includes/sitemap.html.gz
+Sitemap: https://ablentore.github.io/item/sitemap.html.gz
+Sitemap: https://ablentore.github.io/src/sitemap.html.gz
